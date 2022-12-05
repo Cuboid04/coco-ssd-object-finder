@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#start,#detected_object_name{
+    font-size:18px;
+}
+#note{
+    font-size:18px;
+    color:black;
+}
+canvas{
+    margin-top:100px;
+    border: 2px solid black;
+}
